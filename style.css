@@ -1,0 +1,52 @@
+* {
+    margin: 5;
+    padding: 5px;
+}
+
+main {
+    font-family: "Helvetica";
+    color: white;
+}
+
+p {
+    margin: 0;
+    padding-left: 1rem;
+}
+
+h1 {
+    margin: 0;
+    padding-left:  1rem;
+    padding-top: 1rem;
+   
+}
+
+article {
+    display: block;
+}
+
+.bloco {
+    width: 300px;
+    margin: 10px;
+    
+
+}
+
+#bloco-1 {
+    background-color: #d66800;
+    border: 3px double orange;
+}
+
+#bloco-2 {
+    background-color: #04601e;
+    border: 3px double rgb(64, 148, 65);
+}
+
+#bloco-3 {
+    background-color: #032f07;
+    border: 3px dashed #7cd35c;
+}
+
+#bloco-4 {
+    background-color: #f50909;
+    border: 3px dashed white;
+}
